@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256.0px"
+   height="256.0px"
+   viewBox="0 0 256.0 256.0"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="airnumby.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:export-filename="/home/jacob/Pictures/airnumby.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="2.3178866"
+     inkscape:cx="45.5156"
+     inkscape:cy="151.43105"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-global="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid20" />
+  </sodipodi:namedview>
+  <defs
+     id="defs9" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#2f496e;fill-opacity:1;stroke:#ed8c72;stroke-width:9.66037;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect89"
+       width="246.33963"
+       height="246.33963"
+       x="4.8301849"
+       y="4.8301849"
+       ry="53.132076" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:38.4314px;line-height:1.25;font-family:sans-serif;fill:#f4eade;fill-opacity:1;stroke:none;stroke-width:0.960784"
+       x="26.761032"
+       y="183.7607"
+       id="text1218"><tspan
+         sodipodi:role="line"
+         id="tspan1216"
+         x="26.761032"
+         y="183.7607"
+         style="fill:#f4eade;fill-opacity:1;stroke-width:0.960784">AIRNUMBY</tspan></text>
+    <path
+       style="fill:none;stroke:#2988bc;stroke-width:10;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:20, 10, 5, 10;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 41.645132,80 C 36.496361,87.423947 80.076505,22.352941 130.71955,66.694613 182.69411,109.48523 224.28771,43.126838 219.36567,50.703008"
+       id="path19858-6"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#2988bc;stroke-width:10;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:20, 10, 5, 10;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 41.645132,125 c -5.148771,7.42394 38.431373,-57.647067 89.074418,-13.30539 51.97456,42.79062 93.56816,-23.56778 88.64612,-15.99161"
+       id="path19858-6-2"
+       sodipodi:nodetypes="ccc" />
+  </g>
+</svg>
